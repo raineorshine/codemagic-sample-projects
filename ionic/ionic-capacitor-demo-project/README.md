@@ -9,12 +9,11 @@ For the production projects, you will likely want to create an app using your fr
 
 ### Running this example
 
-To run the provided example, can use serve command:
+To run the provided example, can use the start command:
 
 ```bash
-npx cap serve
+npm run start
 ```
-
 
 ## Adding the app to Codemagic
 The apps you have available on Codemagic are listed on the Applications page. Click **Add application** to add a new app.
